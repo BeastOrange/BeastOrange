@@ -10,5 +10,4 @@ JiangJC253/JiangJC253 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=G2Esports_NiKo253"> </div>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JiangJC253&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiangJC253)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JiangJC253)](https://github.com/ashutosh00710/github-readme-activity-graph)
